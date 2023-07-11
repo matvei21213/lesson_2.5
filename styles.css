@@ -1,0 +1,41 @@
+h1 {
+    background: rgb(31, 159, 209);
+}
+
+.paragraph-p {
+    text-align: center;
+    font-size: 24pt;
+    text-shadow: 2px 2px green;
+}
+
+.paragraph-gb {
+    background: rgb(16, 214, 204);
+    font-size: 32pt;
+    color: rgb(0, 128,0);
+}
+
+.paragraph-2 {
+    background: grey;
+    border-radius: 15px;
+    border-color: brown;
+    border-width: 5px;
+    font-size: 24pt;
+    width: 50%;
+}
+
+.div-1 {
+    font-family: 'Counter New', Courier, monospace;
+    font-size: 20pt;
+    margin-left: 60pt;
+    text-alain: center;
+}
+
+.image-1 {
+    border-radius: 1px;
+}
+
+
+
+
+
+
